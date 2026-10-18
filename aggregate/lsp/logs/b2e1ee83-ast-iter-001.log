@@ -1,0 +1,7 @@
+[2026-10-18T08:52:07Z] === AST ITERATION 1 START | repo=sloria/doitlive sha=b2e1ee83 ===
+[2026-10-18T08:52:07Z] [iter=1] PHASE START: ast repo=sloria/doitlive sha=b2e1ee83
+[2026-10-18T08:52:07Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T08:52:14Z] [iter=1] AST chunks built count=1 triples=99503
+[2026-10-18T08:52:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b2e1ee834e8915dbad8b31f9f03ff533198cdf78/.complete
+[2026-10-18T08:52:14Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-10-18T08:52:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

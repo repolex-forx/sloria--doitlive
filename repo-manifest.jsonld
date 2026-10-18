@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sloria/doitlive/commit/b2e1ee834e8915dbad8b31f9f03ff533198cdf78",
       "git:hexsha": "b2e1ee834e8915dbad8b31f9f03ff533198cdf78",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sloria/doitlive/commit/237b22c3578eadf3d50802ae0b9498b20b780219",
